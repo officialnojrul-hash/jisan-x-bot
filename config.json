@@ -1,0 +1,11 @@
+{
+  "botName": "Jisan Botx",
+  "ownerName": "Ahmed Jisan",
+  "ownerNumber": "8801700913973",
+  "prefix": ".",
+  "timezone": "Asia/Dhaka",
+  "telegram": {
+    "token": "8650335099:AAEW6tNVWCgM3w0GMUyeP7lCsf3N7FEyuuc",
+    "ownerId": "t.me/JisanXOfficial"
+  }
+}

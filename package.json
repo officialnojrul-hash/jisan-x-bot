@@ -1,0 +1,16 @@
+{
+  "name": "jisan-botx",
+  "version": "1.0.0",
+  "description": "WhatsApp Multi-Device Bot with Telegram Bridge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "6.7.24",
+    "pino": "^8.19.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "jisan-botx",
+  "version": "1.0.0",
+  "description": "Jisan BotX WhatsApp group moderation bot using Baileys",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18.18.0"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.18",
+    "pino": "^9.6.0"
+  }
+}
